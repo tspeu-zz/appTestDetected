@@ -6,4 +6,6 @@
     <string name="start">Start</string>
     <string name="resultadoOk">OK</string>
     <string name="resultadoNOOk">NO Ok</string>
+    <string name="icon">icon</string>
+    <string name="imgviewres">imViewREs</string>
 </resources>

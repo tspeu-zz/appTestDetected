@@ -16,7 +16,7 @@
         android:id="@+id/btnStart"
         android:layout_width="182dp"
         android:layout_height="182dp"
-        android:background="@drawable/circle"
+        android:background="@drawable/btncircle"
         android:text="@string/start"
         android:textSize="36sp"
         android:textColor="#fff"
@@ -26,7 +26,8 @@
         android:clickable="true"
         android:textAlignment="center"
         android:paddingTop="50dp"
-        android:layout_marginTop="15dp" />
+        android:layout_marginTop="15dp"
+        android:elevation="10dp" />
 
 
 </LinearLayout>
