@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoBiz Bluetooth detection</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Auto Detect</string>
+    <string name="title2">Activity 2</string>
+    <string name="start">Start</string>
+    <string name="resultadoOk">OK</string>
+    <string name="resultadoNOOk">NO Ok</string>
+</resources>

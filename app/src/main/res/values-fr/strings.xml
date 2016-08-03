@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoBiz Bluetooth detection</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title">Détection Automatique</string>
+    <string name="title2"> Activité 2</string>
+    <string name="start">Start</string>
+</resources>
